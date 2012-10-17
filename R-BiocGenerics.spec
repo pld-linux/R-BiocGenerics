@@ -12,7 +12,6 @@ URL:		http://bioconductor.org/packages/release/bioc/html/%{packname}.html
 BuildRequires:	R
 BuildRequires:	texlive-latex
 Requires:	R
-BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
