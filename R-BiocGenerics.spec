@@ -2,12 +2,12 @@
 
 Summary:	Generic functions for Bioconductor
 Name:		R-%{packname}
-Version:	0.4.0
+Version:	0.6.0
 Release:	1
 License:	Artistic 2.0
 Group:		Applications/Science
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	ae874c6b065d87ef8f0e16299070ab5a
+# Source0-md5:	c4b4b3ede40a95345c08fc1dae6301dd
 URL:		http://bioconductor.org/packages/release/bioc/html/%{packname}.html
 BuildRequires:	R
 BuildRequires:	texlive-latex
