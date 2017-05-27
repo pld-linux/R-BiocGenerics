@@ -3,7 +3,7 @@
 Summary:	Generic functions for Bioconductor
 Name:		R-%{packname}
 Version:	0.8.0
-Release:	1
+Release:	2
 License:	Artistic 2.0
 Group:		Applications/Science
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
